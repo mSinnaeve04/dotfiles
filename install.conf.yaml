@@ -5,6 +5,7 @@
 - clean: ['~']
 
 - link:
+      ~/.gitconfig: configs/git/gitconfig
       ~/.bashrc: configs/bash/bashrc
 
 - shell:
